@@ -1,0 +1,5 @@
+{
+  "name": "heroku-docker-nodejs-express",
+  "image": "mhart/alpine-node",
+  "addons": []
+}
